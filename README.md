@@ -11,7 +11,7 @@ In this project, let's build a **Prime Video** by applying the concepts we have 
 </div>
 <br/>
 
-### Design Files##L
+### Design Files##
 
 <details>
 <summary>Click to view</summary>
