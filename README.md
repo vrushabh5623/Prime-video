@@ -1,6 +1,6 @@
 In this project, let's build a **Prime Video** by applying the concepts we have learned till now..
 
-### Refer to the video below:ww
+### Refer to the video below:w
 
 <br/>
 <div style="text-align: center;">
